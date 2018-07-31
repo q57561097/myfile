@@ -1,13 +1,16 @@
 <template>
-    $END$
+  <div><navbar></navbar></div>
 </template>
 
 <script>
+  import navbar from '../components/nva.vue'
 	export default {
-		name: "home"
+		name: "Home",
+    components: {
+      navbar
+    }
 	}
 </script>
-
-<style scoped>
+<style>
 
 </style>

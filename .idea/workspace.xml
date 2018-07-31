@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32cd6c59-cf4b-4834-a154-bfadee18368c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/Tornado/templates/iosstream.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/learn/test/home.vue" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/learn/test/trans.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/mqtt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/mqtt/info_client.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/mqtt/server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/qiang_gou.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/GET_POINT_NUM.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/add_device.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/area.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/area1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/change_status.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/check.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/check_size.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/choice.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/create_data.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/delete_device.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/dui_test.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/filter/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/filter/create_data.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/filter/create_data1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/filter/filter.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/filter/filter_server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/filter/test.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/http_s.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn3.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn5.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn6.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn7.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn8.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/learn9.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/server1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/setting.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/imitator/setting1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/jqual.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/jqual.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/kafka_test_/test_kafka.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/LoginCode.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/create_data.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/dayu_test.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/login.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/login_server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/test.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/test_1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/login/test_dayu.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/moses.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/mq/client.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/mq/client2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/mq/server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/mq/test.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/produce/product.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/add_factory.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/add_production.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/add_vfs.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/alter_json.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/baidutest.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/celery.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/create_session.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/fanyi.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/get_hbase_history.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/login.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/put_data.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/redis_server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/start_all.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/start_server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/test.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/test.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/test1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/test_eval.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/test_excel.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/reids_test/test_redis.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/task/config.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/task/task1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/task/task_server.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test.vue" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/add_vfs.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/login.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/paixu1.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/paixu2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/paixu3.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/paixusan.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/test2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/test4.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/test5.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test/test7.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test4.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test_hadoop/add_machine_info.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test_hadoop/test_hadoop.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test_hadoop/test_tornado.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test_matt/add_jesus_factory.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/test_matt/test_mqtt.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/web_socket.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/work/write_execl.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/资料/add_agreement.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/python/资料/dui.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.py" afterPath="$PROJECT_DIR$/hello.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/components/navLine.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/components/navLine.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/components/nva.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/components/nva.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/pages/FactoryList.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/pages/FactoryList.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/pages/Home.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/pages/Home.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/pages/MachineList.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/pages/MachineList.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/pages/mouse.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/pages/mouse.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/pages/tubiao.vue" afterPath="$PROJECT_DIR$/myvue/bms/src/pages/tubiao.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/bms/src/store/index.js" afterPath="$PROJECT_DIR$/myvue/bms/src/store/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/api/index.js" afterPath="$PROJECT_DIR$/myvue/my-vue/src/api/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/api/model.js" afterPath="$PROJECT_DIR$/myvue/my-vue/src/api/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/components/footer.vue" afterPath="$PROJECT_DIR$/myvue/my-vue/src/components/footer.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/components/header.vue" afterPath="$PROJECT_DIR$/myvue/my-vue/src/components/header.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/pages/Content.vue" afterPath="$PROJECT_DIR$/myvue/my-vue/src/pages/Content.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/pages/Index.vue" afterPath="$PROJECT_DIR$/myvue/my-vue/src/pages/Index.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/pages/simulator/list_factory.vue" afterPath="$PROJECT_DIR$/myvue/my-vue/src/pages/simulator/list_factory.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/src/utils/index.js" afterPath="$PROJECT_DIR$/myvue/my-vue/src/utils/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myvue/my-vue/test.html" afterPath="$PROJECT_DIR$/myvue/my-vue/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orm.py" afterPath="$PROJECT_DIR$/orm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qian_duan/flex.html" afterPath="$PROJECT_DIR$/qian_duan/flex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qian_duan/test.js" afterPath="$PROJECT_DIR$/qian_duan/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qian_duan/test1.html" afterPath="$PROJECT_DIR$/qian_duan/test1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qian_duan/test2.html" afterPath="$PROJECT_DIR$/qian_duan/test2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qian_duan/test3.html" afterPath="$PROJECT_DIR$/qian_duan/test3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/suan_fa/quick_sort.py" afterPath="$PROJECT_DIR$/suan_fa/quick_sort.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="export_const.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/moses/back/expand/filter/export_const.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#21#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_service.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/moses/back/expand/filter/export_service.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="change_status.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/python/work/change_status.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-160">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete_device.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/python/work/delete_device.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_excel/excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2414">
+              <caret line="490" column="0" lean-forward="false" selection-start-line="490" selection-start-column="0" selection-end-line="490" selection-end-column="0" />
+              <folding>
+                <element signature="e#16#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_pc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/moses/front/mobile/src/main_pc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/moses/back/expand/filter/export.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1226">
+              <caret line="2741" column="8" lean-forward="false" selection-start-line="2741" selection-start-column="8" selection-end-line="2743" selection-end-column="32" />
+              <folding>
+                <element signature="e#18#29#0" expanded="true" />
+                <marker date="1532942917196" expanded="true" signature="678:137497" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lang.json" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/moses/front/mobile/static/lang/lang.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="88898" lean-forward="false" selection-start-line="0" selection-start-column="88898" selection-end-line="0" selection-end-column="88898" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/moses/tools/trans_front/create_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_excel/create_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#18#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+        <option value="package_json" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this</find>
+      <find>this.di18n</find>
+      <find>this.di1</find>
+      <find>v-else</find>
+      <find>di18n</find>
+      <find>di18</find>
+      <find>欢迎您</find>
+      <find>配置刀具</find>
+      <find>添加轮班</find>
+      <find>添加</find>
+      <find>实际零件数</find>
+      <find>v-jo</find>
+      <find>班计划</find>
+      <find>di</find>
+      <find>按生产线查看</find>
+      <find>src</find>
+      <find>page</find>
+      <find>pages</find>
+      <find>src/pages/</find>
+      <find>src/pag</find>
+      <find>9999</find>
+      <find>999</find>
+      <find>src/pages</find>
+      <find>[\u0100-\uffff]+</find>
+      <find>export</find>
+      <find>post</find>
+      <find>set_col_wight</find>
+      <find>encode_</find>
+      <find>print</find>
+      <find>.vue</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/moses/front/mobile/src/component</dir>
+      <dir>$USER_HOME$/moses/front/mobile</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/setting/setting_pc.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/tool/tool-dispose.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/tool/tool-login.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/tool/tool-overall.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/tool/tool-report.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/tool/tool-return.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/tool/tool-withdraw.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/toolList/toolCheck.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/toolList/toolCheck_pc.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/toolList/toolHandle.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/toolList/toolHandle_pc.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/toolList/toolList.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/toolList/toolList_pc.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/transfer/component/machineTree.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/transfer/component/ztree.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/transfer/cloudToMachine.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/transfer/editFile.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/transfer/localToCloud.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/transfer/localToMachine.vue" />
+        <option value="$USER_HOME$/moses/back/jesus/api/v1.py" />
+        <option value="$USER_HOME$/moses/front/mobile/src/app/app_pc.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/package.json" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/home/component/job.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/machine_condition/machine-detail.js" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pages/machine_condition/components/circleProcess.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/main.js" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/alarm/component/connect.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/alarm/detail_info.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/error/network_error.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/currentInfo.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/lineChart.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/maintenance.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/operation_device.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/serarch_box.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/timelineStatus.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/detail.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/list.vue" />
+        <option value="$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/map.vue" />
+        <option value="$USER_HOME$/moses/back/expand/filter/report.py" />
+        <option value="$USER_HOME$/moses/back/web/column.py" />
+        <option value="$USER_HOME$/moses/back/expand/filter/export_const.py" />
+        <option value="$USER_HOME$/python/learn/test/trans.py" />
+        <option value="$USER_HOME$/moses/back/expand/filter/export.py" />
+        <option value="$USER_HOME$/moses/back/web/utils.py" />
+        <option value="$USER_HOME$/moses/front/mobile/src/main_pc.js" />
+        <option value="$USER_HOME$/moses/front/mobile/static/lang/lang.json" />
+        <option value="$USER_HOME$/moses/back/web/models.py" />
+        <option value="$USER_HOME$/moses/back/web/api/v1.py" />
+        <option value="$USER_HOME$/moses/back/web/const.py" />
+        <option value="$USER_HOME$/moses/tools/trans_front/create_excel.py" />
+        <option value="$PROJECT_DIR$/learn_excel/excel.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$USER_HOME$/moses/front/app/plugins/cordova-hot-code-push-plugin/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/bigboard/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/bms/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/daping/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/deploy/board_template/plugins/cordova-hot-code-push-plugin/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/deploy/desktop_template/binary/package.nw/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/deploy/mobile_template/plugins/cordova-hot-code-push-plugin/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/deploy/pad_template/plugins/cordova-hot-code-push-plugin/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/deploy/walker_template/plugins/cordova-hot-code-push-plugin/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/desktop/binary/package.nw/node_modules" />
+    <handled-path value="$USER_HOME$/moses/front/mobile/node_modules" />
+    <handled-path value="$PROJECT_DIR$/D-i18n/vue-demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/f7/my-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/f7/node_modules" />
+    <handled-path value="$PROJECT_DIR$/myvue/bms/node_modules" />
+    <handled-path value="$PROJECT_DIR$/myvue/my-vue/node_modules" />
+    <handled-path value="$PROJECT_DIR$/myvue/node_modules" />
+    <handled-path value="$PROJECT_DIR$/webpack-demo/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1015" />
+    <option name="height" value="1896" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trans_front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myvue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myvue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn_excel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/zyh/moses/back/jesus/views/login.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.12.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/myvue/my-vue/node_modules/eslint" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/myvue/my-vue/node_modules/eslint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn_excel" />
+      <recent name="$USER_HOME$/python/learn/test" />
+      <recent name="$USER_HOME$/python/work" />
+      <recent name="$PROJECT_DIR$/myvue/bms/src/common/lang" />
+      <recent name="$PROJECT_DIR$/myvue/bms/src/assets/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.create_excel">
+    <configuration default="false" name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/moses/back/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="back" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/moses/back/web/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ucenter_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/moses/back/ucenter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="back" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/moses/back/ucenter/ucenter_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="filter_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/moses/back/expand/filter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="back" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/moses/back/expand/filter/filter_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/moses/tools/trans_front" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tools" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/moses/tools/trans_front/create_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/moses/back/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="back" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/moses/back/web/create_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myfile" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/qian_duan" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ucenter_server" />
+      <item index="2" class="java.lang.String" itemvalue="Python.filter_server" />
+      <item index="3" class="java.lang.String" itemvalue="Python.create_excel" />
+      <item index="4" class="java.lang.String" itemvalue="Python.create_table" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.create_excel" />
+        <item index="1" class="java.lang.String" itemvalue="Python.filter_server" />
+        <item index="2" class="java.lang.String" itemvalue="Python.server" />
+        <item index="3" class="java.lang.String" itemvalue="Python.create_table" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ucenter_server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32cd6c59-cf4b-4834-a154-bfadee18368c" name="Default" comment="" />
+      <created>1521015781211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521015781211</updated>
+      <workItem from="1523156544420" duration="2155000" />
+      <workItem from="1523166246427" duration="19640000" />
+      <workItem from="1523498746314" duration="7096000" />
+      <workItem from="1523517370341" duration="36958000" />
+      <workItem from="1523843905550" duration="8829000" />
+      <workItem from="1523857637281" duration="13000" />
+      <workItem from="1523857695424" duration="42721000" />
+      <workItem from="1524115833303" duration="11854000" />
+      <workItem from="1524452518206" duration="29252000" />
+      <workItem from="1524550107464" duration="20993000" />
+      <workItem from="1524653082158" duration="16843000" />
+      <workItem from="1526028289232" duration="1294000" />
+      <workItem from="1526353814618" duration="9474000" />
+      <workItem from="1528868358372" duration="1676000" />
+      <workItem from="1532322315594" duration="771000" />
+      <workItem from="1532337155420" duration="4597000" />
+      <workItem from="1532424406013" duration="1469000" />
+      <workItem from="1532426474840" duration="9929000" />
+      <workItem from="1532497042511" duration="272000" />
+      <workItem from="1532497327865" duration="2057000" />
+      <workItem from="1532499650506" duration="42838000" />
+      <workItem from="1532659293057" duration="13961000" />
+      <workItem from="1532678708300" duration="3539000" />
+      <workItem from="1532912453752" duration="262000" />
+      <workItem from="1532917895275" duration="3606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="327149000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1015" height="1896" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37878788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973894" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973894" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37878788" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973894" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/machine_condition/machine-detail_pc.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="1916" column="52" lean-forward="false" selection-start-line="1916" selection-start-column="52" selection-end-line="1916" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/machine_condition/machine-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1663">
+          <caret line="150" column="42" lean-forward="false" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/machine_condition/components/circleProcess.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1511">
+          <caret line="156" column="35" lean-forward="false" selection-start-line="156" selection-start-column="35" selection-end-line="156" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/home/home_shop_pc.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="134" column="55" lean-forward="false" selection-start-line="134" selection-start-column="55" selection-end-line="134" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python/learn/test/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="34" lean-forward="false" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/component/reject-chart/reject-chart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/component/annular/annular.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/alarm/component/connect.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="89" lean-forward="false" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/alarm/detail_info.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/error/network_error.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/currentInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/lineChart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="86" column="65" lean-forward="false" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/maintenance.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="296" column="30" lean-forward="false" selection-start-line="296" selection-start-column="26" selection-end-line="296" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/push_alarms.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/Pagination/Pagination.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/map.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="124" column="78" lean-forward="false" selection-start-line="124" selection-start-column="72" selection-end-line="124" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/operation_device.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="344" column="20" lean-forward="false" selection-start-line="344" selection-start-column="15" selection-end-line="344" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/serarch_box.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="81" column="47" lean-forward="false" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/component/timelineStatus.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="211" column="30" lean-forward="false" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="32" selection-end-line="116" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/machines/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pageComponents/navbar/navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="88" column="38" lean-forward="false" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/bms/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/column.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1572">
+          <caret line="522" column="32" lean-forward="false" selection-start-line="522" selection-start-column="32" selection-end-line="522" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/expand/filter/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="77" column="31" lean-forward="false" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python/work/reids_test/test_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python/learn/test/trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/personal/user/check_pc.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/personal/user/check.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python/work/reids_test/test_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#16#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/simulator/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10601">
+          <caret line="765" column="15" lean-forward="true" selection-start-line="765" selection-start-column="15" selection-end-line="765" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1543">
+          <caret line="3319" column="0" lean-forward="false" selection-start-line="3319" selection-start-column="0" selection-end-line="3319" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#36#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/api/v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/table_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2094">
+          <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/create_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/pages/data_report/replaceCapability/machine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/web/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/expand/filter/filter_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="72" column="32" lean-forward="false" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python/work/change_status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/expand/filter/export_const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/expand/filter/export_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python/work/delete_device.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/static/lang/lang.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="88898" lean-forward="false" selection-start-line="0" selection-start-column="88898" selection-end-line="0" selection-end-column="88898" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/front/mobile/src/main_pc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_excel/create_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/tools/trans_front/create_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/moses/back/expand/filter/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1226">
+          <caret line="2741" column="8" lean-forward="false" selection-start-line="2741" selection-start-column="8" selection-end-line="2743" selection-end-column="32" />
+          <folding>
+            <element signature="e#18#29#0" expanded="true" />
+            <marker date="1532942917196" expanded="true" signature="678:137497" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_excel/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="490" column="0" lean-forward="false" selection-start-line="490" selection-start-column="0" selection-end-line="490" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

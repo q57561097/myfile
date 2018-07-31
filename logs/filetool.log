@@ -1,0 +1,82 @@
+[I 2018-06-19 11:02:33,267 simulator_server:50] listen at 0.0.0.0:9200
+[I 2018-06-19 11:02:33,267 simulator_server:50] listen at 0.0.0.0:9200
+[I 2018-06-29 10:41:36,241 simulator_view:81] 127.0.0.1|add_jesus_user|{"factory_id": "6gAi", "login_type": "0", "number": "17088880000", "name": "\u4e8c\u72d7", "department_id": 0}
+[I 2018-06-29 10:41:36,241 simulator_view:81] 127.0.0.1|add_jesus_user|{"factory_id": "6gAi", "login_type": "0", "number": "17088880000", "name": "\u4e8c\u72d7", "department_id": 0}
+[E 2018-06-29 10:41:36,274 simulator_view:105] Traceback (most recent call last):
+  File "/home/zyh/moses/back/bms/simulator_view.py", line 93, in post
+    result_data = yield self.handle_client(info, func_str)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1015, in run
+    value = future.result()
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/concurrent.py", line 237, in result
+    raise_exc_info(self._exc_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1021, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/zyh/moses/back/bms/simulator_view.py", line 255, in handle_client
+    machines = yield self.get_box_id(info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1015, in run
+    value = future.result()
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/concurrent.py", line 237, in result
+    raise_exc_info(self._exc_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1021, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/zyh/moses/back/bms/simulator_view.py", line 248, in get_box_id
+    permission_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1015, in run
+    value = future.result()
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/concurrent.py", line 237, in result
+    raise_exc_info(self._exc_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 285, in wrapper
+    yielded = next(result)
+  File "/home/zyh/moses/back/web/service.py", line 2439, in get_machine_by_user
+    raise gen.Return({'code': 200})
+  File "/home/zyh/moses/back/web/utils.py", line 931, in convert_permission
+    # app_log.info(permission)
+  File "/home/zyh/moses/back/web/utils.py", line 924, in split_permission_func
+    if isinstance(permission, int):
+AttributeError: 'NoneType' object has no attribute 'split'
+
+[E 2018-06-29 10:41:36,274 simulator_view:105] Traceback (most recent call last):
+  File "/home/zyh/moses/back/bms/simulator_view.py", line 93, in post
+    result_data = yield self.handle_client(info, func_str)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1015, in run
+    value = future.result()
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/concurrent.py", line 237, in result
+    raise_exc_info(self._exc_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1021, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/zyh/moses/back/bms/simulator_view.py", line 255, in handle_client
+    machines = yield self.get_box_id(info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1015, in run
+    value = future.result()
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/concurrent.py", line 237, in result
+    raise_exc_info(self._exc_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1021, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/zyh/moses/back/bms/simulator_view.py", line 248, in get_box_id
+    permission_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 1015, in run
+    value = future.result()
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/concurrent.py", line 237, in result
+    raise_exc_info(self._exc_info)
+  File "/home/zyh/.pyenv/versions/moses-back/lib/python2.7/site-packages/tornado/gen.py", line 285, in wrapper
+    yielded = next(result)
+  File "/home/zyh/moses/back/web/service.py", line 2439, in get_machine_by_user
+    raise gen.Return({'code': 200})
+  File "/home/zyh/moses/back/web/utils.py", line 931, in convert_permission
+    # app_log.info(permission)
+  File "/home/zyh/moses/back/web/utils.py", line 924, in split_permission_func
+    if isinstance(permission, int):
+AttributeError: 'NoneType' object has no attribute 'split'
+
+[I 2018-06-29 10:41:36,279 web:1971] 200 POST /api (127.0.0.1) 137.60ms
+[I 2018-06-29 10:41:36,279 web:1971] 200 POST /api (127.0.0.1) 137.60ms
+[I 2018-07-13 18:42:31,569 simulator_server:14] caught signal: 15
+[I 2018-07-13 18:42:31,569 simulator_server:14] caught signal: 15
+[I 2018-07-13 18:42:31,605 simulator_server:15] stopping http server
+[I 2018-07-13 18:42:31,605 simulator_server:15] stopping http server
+[I 2018-07-13 18:42:31,641 simulator_server:14] caught signal: 15
+[I 2018-07-13 18:42:31,641 simulator_server:14] caught signal: 15
+[I 2018-07-13 18:42:31,642 simulator_server:15] stopping http server
+[I 2018-07-13 18:42:31,642 simulator_server:15] stopping http server
+[I 2018-07-13 18:42:34,627 simulator_server:19] shutdown
+[I 2018-07-13 18:42:34,627 simulator_server:19] shutdown

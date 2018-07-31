@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <div class="navLine"></div>
 </template>
 
 <script>
@@ -9,5 +9,10 @@
 </script>
 
 <style scoped>
-
+  .navLine
+  {
+    /*position: fixed;*/
+    height: 2%;
+    background-color: rgba(242, 242, 242, 1);
+  }
 </style>

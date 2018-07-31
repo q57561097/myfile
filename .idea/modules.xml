@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/moses/back/.idea/back.iml" filepath="$USER_HOME$/moses/back/.idea/back.iml" />
+      <module fileurl="file://$USER_HOME$/moses/box/.idea/box.iml" filepath="$USER_HOME$/moses/box/.idea/box.iml" />
+      <module fileurl="file://$USER_HOME$/moses/common/.idea/common.iml" filepath="$USER_HOME$/moses/common/.idea/common.iml" />
+      <module fileurl="file://$USER_HOME$/moses/front/.idea/front.iml" filepath="$USER_HOME$/moses/front/.idea/front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myfile.iml" filepath="$PROJECT_DIR$/.idea/myfile.iml" />
+      <module fileurl="file://$USER_HOME$/python/.idea/python.iml" filepath="$USER_HOME$/python/.idea/python.iml" />
+      <module fileurl="file://$USER_HOME$/moses/simulator/.idea/simulator.iml" filepath="$USER_HOME$/moses/simulator/.idea/simulator.iml" />
+      <module fileurl="file://$USER_HOME$/moses/tools/.idea/tools.iml" filepath="$USER_HOME$/moses/tools/.idea/tools.iml" />
+    </modules>
+  </component>
+</project>

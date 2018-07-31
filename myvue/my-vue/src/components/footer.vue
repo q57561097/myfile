@@ -1,10 +1,12 @@
 <template>
-    $END$
+  <footer class="copy">
+    Copy © test
+  </footer>
 </template>
 
 <script>
     export default {
-        name: "footer"
+      name: 'footer'
     }
 </script>
 
