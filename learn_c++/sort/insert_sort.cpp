@@ -99,6 +99,75 @@ void select_sort(int nums[], int n){
 	cout<<"select_sort"<<endl;
 	print_list(list, size);	
 }
+
+void sift(int nums[], int i, int n){
+int j, temp;
+//取数据时从零开始
+temp = nums[i-1];
+j=i*2;
+while (j<=n){
+	if (nums[j-1]<nums[j]&&j<n) j++;
+	if (nums[j-1]<=temp) break;
+	nums[i-1]=nums[j-1];
+	i=j; 
+	j=i*2;
+	}
+nums[i-1]=temp;
+}
+
+void sift_sort(int nums[], int n){
+int j,i, temp;
+for (i=n/2;i>0;i--) sift(nums, i, n);
+for (j=n;j>1;j--){	
+	temp = nums[j-1];	
+	nums[j-1]=nums[0];
+	nums[0]=temp;
+	sift(nums, 1, j-1);	
+	
+}
+print_list(list, size);
+}
+
+void merge(int nums[], int start, int mid, int end){
+	int *temp;
+	temp  = new int[end-start+1];
+	int i=start, j=mid+1, k=0;
+	while (i<=mid&&j<=end){
+		if (nums[i]<nums[j]) temp[k++] = nums[i++];
+		else temp[k++] = nums[j++];
+
+	}
+	while (i<=mid) temp[k++]=nums[i++];
+	while (j<=end) temp[k++]=nums[j++];
+	for (i=start;i<=end;i++) nums[i]=temp[i-start];
+	delete []temp;
+}
+
+void merge_pass(int nums[], int len, int n){
+	int mid, end, i=0;
+	while (i<n){
+		mid = i+len-1;
+		if (mid>n) break;
+		else {
+			end = mid+len;
+			if (end>=n) end = n-1;
+			merge(nums, i, mid, end);
+			i=end+1;
+			}	
+	}	
+	}
+
+void merge_sort(int nums[], int n){
+ 	int len=1;
+	while (len <n){
+		merge_pass(nums, len, n);
+		len = len*2;
+		//merge_pass(nums, len, n);
+		//len = len*2;
+	
+            }
+	print_list(nums, n);
+}
 int main(){
 	//直接插入排序
 	//insert_sort(list, size);
@@ -109,6 +178,10 @@ int main(){
 	//快速排序
 	//quick_sort(list, 0, size-1);
 	//直接选择排序
-	select_sort(list, size);
+	//select_sort(list, size);
+	//堆排序
+	//sift_sort(list, size);
+	//归并排序
+	merge_sort(list,size);
 	//print_list(list, size);
 }

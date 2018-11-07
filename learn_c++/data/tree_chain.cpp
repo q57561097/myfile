@@ -11,6 +11,7 @@ typedef struct tree{
 }tree;
 
 void inorder_print(tree *t2);
+//二叉树
 tree *create_tree(const char *str){
       tree  *str1[max_size];
       int k,j=0,top=-1;
